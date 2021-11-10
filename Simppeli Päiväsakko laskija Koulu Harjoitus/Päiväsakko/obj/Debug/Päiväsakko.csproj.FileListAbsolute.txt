@@ -1,0 +1,6 @@
+C:\Users\Teme\Desktop\Päiväsakko\Päiväsakko\bin\Debug\Päiväsakko.exe.config
+C:\Users\Teme\Desktop\Päiväsakko\Päiväsakko\bin\Debug\Päiväsakko.exe
+C:\Users\Teme\Desktop\Päiväsakko\Päiväsakko\bin\Debug\Päiväsakko.pdb
+C:\Users\Teme\Desktop\Päiväsakko\Päiväsakko\obj\Debug\Päiväsakko.csprojResolveAssemblyReference.cache
+C:\Users\Teme\Desktop\Päiväsakko\Päiväsakko\obj\Debug\Päiväsakko.exe
+C:\Users\Teme\Desktop\Päiväsakko\Päiväsakko\obj\Debug\Päiväsakko.pdb
